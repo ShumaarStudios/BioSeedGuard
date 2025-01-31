@@ -1,0 +1,14 @@
+{
+  "Index": {
+    "title": "पर्यावरण अनुकूल कृषि समाधान"
+  },
+  "SolutionFinder": {
+    "selectState": "अपना राज्य चुनें",
+    "selectSoilType": "मिट्टी का प्रकार चुनें",
+    "selectSoilTexture": "मिट्टी की बनावट चुनें",
+    "selectProblem": "समस्या चुनें",
+    "generateSolution": "समाधान उत्पन्न करें",
+    "recommendedSolution": "अनुशंसित समाधान",
+    "startOver": "फिर से शुरू करें"
+  }
+}

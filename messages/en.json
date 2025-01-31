@@ -1,0 +1,14 @@
+{
+  "Index": {
+    "title": "Eco-Friendly Farming Solutions"
+  },
+  "SolutionFinder": {
+    "selectState": "Select Your State",
+    "selectSoilType": "Select Soil Type",
+    "selectSoilTexture": "Select Soil Texture",
+    "selectProblem": "Select Problem",
+    "generateSolution": "Generate Solution",
+    "recommendedSolution": "Recommended Solution",
+    "startOver": "Start Over"
+  }
+}
